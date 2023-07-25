@@ -1,6 +1,3 @@
-Free Download Source Code "Music Clound Community "
-
-FIRST Download
 
 1.XAMPP
 
@@ -21,23 +18,3 @@ FIRST Download
 6. Import music_db.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/music
-
----------------------------------------------------
-Admin Access
-email: admin@admin.com
-password: admin123
-----------------------------------------------------
-Sample User Access
-email: jsmith@sample.com
-password: jsmith123
-----------------------------------------------------
-create your own
-
-
-***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
-
-***** LEAVE A COMMENT IF YOU LOVED OUR WORK  AND SUBSCRIBE OUR CHANNEL *****
-
-***** FOR MORE PROJECTS :- https://1sourcecodr.blogspot.com/ *****
-
-#THANK YOU FOR DOWNLOADING
